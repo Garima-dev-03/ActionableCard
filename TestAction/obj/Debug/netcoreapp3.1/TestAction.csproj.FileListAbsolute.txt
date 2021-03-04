@@ -1,0 +1,26 @@
+C:\Users\lenovo\source\repos\WebApiHandson\TestAction\bin\Debug\netcoreapp3.1\TestAction.exe
+C:\Users\lenovo\source\repos\WebApiHandson\TestAction\bin\Debug\netcoreapp3.1\TestAction.deps.json
+C:\Users\lenovo\source\repos\WebApiHandson\TestAction\bin\Debug\netcoreapp3.1\TestAction.runtimeconfig.json
+C:\Users\lenovo\source\repos\WebApiHandson\TestAction\bin\Debug\netcoreapp3.1\TestAction.runtimeconfig.dev.json
+C:\Users\lenovo\source\repos\WebApiHandson\TestAction\bin\Debug\netcoreapp3.1\TestAction.dll
+C:\Users\lenovo\source\repos\WebApiHandson\TestAction\bin\Debug\netcoreapp3.1\TestAction.pdb
+C:\Users\lenovo\source\repos\WebApiHandson\TestAction\obj\Debug\netcoreapp3.1\TestAction.csprojAssemblyReference.cache
+C:\Users\lenovo\source\repos\WebApiHandson\TestAction\obj\Debug\netcoreapp3.1\TestAction.AssemblyInfoInputs.cache
+C:\Users\lenovo\source\repos\WebApiHandson\TestAction\obj\Debug\netcoreapp3.1\TestAction.AssemblyInfo.cs
+C:\Users\lenovo\source\repos\WebApiHandson\TestAction\obj\Debug\netcoreapp3.1\TestAction.csproj.CoreCompileInputs.cache
+C:\Users\lenovo\source\repos\WebApiHandson\TestAction\obj\Debug\netcoreapp3.1\TestAction.dll
+C:\Users\lenovo\source\repos\WebApiHandson\TestAction\obj\Debug\netcoreapp3.1\TestAction.pdb
+C:\Users\lenovo\source\repos\WebApiHandson\TestAction\obj\Debug\netcoreapp3.1\TestAction.genruntimeconfig.cache
+C:\Users\garima jain\source\repos\WebApiHandson\TestAction\bin\Debug\netcoreapp3.1\TestAction.exe
+C:\Users\garima jain\source\repos\WebApiHandson\TestAction\bin\Debug\netcoreapp3.1\TestAction.deps.json
+C:\Users\garima jain\source\repos\WebApiHandson\TestAction\bin\Debug\netcoreapp3.1\TestAction.runtimeconfig.json
+C:\Users\garima jain\source\repos\WebApiHandson\TestAction\bin\Debug\netcoreapp3.1\TestAction.runtimeconfig.dev.json
+C:\Users\garima jain\source\repos\WebApiHandson\TestAction\bin\Debug\netcoreapp3.1\TestAction.dll
+C:\Users\garima jain\source\repos\WebApiHandson\TestAction\bin\Debug\netcoreapp3.1\TestAction.pdb
+C:\Users\garima jain\source\repos\WebApiHandson\TestAction\obj\Debug\netcoreapp3.1\TestAction.csprojAssemblyReference.cache
+C:\Users\garima jain\source\repos\WebApiHandson\TestAction\obj\Debug\netcoreapp3.1\TestAction.AssemblyInfoInputs.cache
+C:\Users\garima jain\source\repos\WebApiHandson\TestAction\obj\Debug\netcoreapp3.1\TestAction.AssemblyInfo.cs
+C:\Users\garima jain\source\repos\WebApiHandson\TestAction\obj\Debug\netcoreapp3.1\TestAction.csproj.CoreCompileInputs.cache
+C:\Users\garima jain\source\repos\WebApiHandson\TestAction\obj\Debug\netcoreapp3.1\TestAction.dll
+C:\Users\garima jain\source\repos\WebApiHandson\TestAction\obj\Debug\netcoreapp3.1\TestAction.pdb
+C:\Users\garima jain\source\repos\WebApiHandson\TestAction\obj\Debug\netcoreapp3.1\TestAction.genruntimeconfig.cache
